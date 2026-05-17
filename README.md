@@ -2,6 +2,8 @@
 
 Internal Claude Code plugin marketplace for the dave.io BD team.
 
+📘 **[Read the User Guide →](USER_GUIDE.md)** for how to actually use this in daily BD work.
+
 ## What's inside
 
 One plugin: **`outreach-agents`** — a multi-agent BD orchestrator mirroring Outreach.ai's AI Agents suite (Revenue, Research, Meeting Prep, Deal, Personalization, Omni) wired to Apollo, Notion, Gmail, Slack, and WebSearch.
