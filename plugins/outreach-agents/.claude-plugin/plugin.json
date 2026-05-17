@@ -1,6 +1,6 @@
 {
   "name": "outreach-agents",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Multi-agent BD orchestrator mirroring Outreach.ai's AI Agents suite (Omni, Revenue, Research, Meeting Prep, Deal, Personalization, Orchestration). Routes to the right sub-agent persona based on user intent. Wired to Apollo, Gmail, Notion, Slack, WebSearch.",
   "author": {
     "name": "Nicholas Moore",
