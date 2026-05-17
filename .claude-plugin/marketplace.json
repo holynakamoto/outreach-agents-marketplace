@@ -1,0 +1,16 @@
+{
+  "name": "outreach-agents-marketplace",
+  "owner": {
+    "name": "Nicholas Moore",
+    "email": "mr.nicholas.s.moore@gmail.com"
+  },
+  "description": "Internal marketplace for the dave.io BD team. Hosts multi-agent BD orchestration skills mirroring Outreach.ai's AI Agents suite.",
+  "plugins": [
+    {
+      "name": "outreach-agents",
+      "source": "./plugins/outreach-agents",
+      "description": "Multi-agent BD orchestrator: Revenue, Research, Meeting Prep, Deal, Personalization, Omni. Wired to Apollo, Notion, Gmail, Slack, WebSearch.",
+      "keywords": ["sales", "outreach", "bd", "apollo", "agents"]
+    }
+  ]
+}
